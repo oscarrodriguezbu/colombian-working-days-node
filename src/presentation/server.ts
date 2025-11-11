@@ -29,7 +29,7 @@ export class Server {
         "http://localhost:3000",
         "http://localhost:4200",
         "http://localhost:5173",
-        "https://miapp.com"
+        "https://colombian-working-days-node-production.up.railway.app"
       ],
       credentials: true,
     }));
