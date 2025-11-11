@@ -7,6 +7,7 @@
 2. Ejecutar `npm install` para instalar las dependencias
 3. Ejecutar `npm run dev`
 4. Abrir postman y probar a partir de la url base: `http://localhost:3000/api/working-days`
+5. Si el despliegue con el tier gratuito en Railway está activo ir a: `https://colombian-working-days-node-production.up.railway.app/api/working-days`
 
 
 ## Contexto del reto:
